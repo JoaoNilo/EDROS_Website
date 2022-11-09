@@ -1,0 +1,65 @@
+body{
+    margin-left: 10px;
+}
+
+
+header{
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+}
+
+.centered{
+    text-align: center;
+}
+
+h2{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.centrado{
+    text-align: center;
+}
+
+#download {
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    display:inline;
+    background-image: url("../Images/ZippedFolder_48x48.png");
+    background-size: 100% 100%;
+    background-color: transparent;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 96px;
+    width: 96px;
+}
+
+#userguide {
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    display:inline;
+    background-image: url("../Images/UserGuide_48x48.png");
+    background-size: 100% 100%;
+    background-color: transparent;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 96px;
+    width: 96px;
+}
+
+#userguide::after {
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    display:inline;
+    background-image: url("../Images/UserGuide_48x48.png");
+    background-size: 100% 100%;
+    background-color: transparent;
+    border-width: 0px;
+    border-radius: 10px;
+    height: 96px;
+    width: 96px;
+}
